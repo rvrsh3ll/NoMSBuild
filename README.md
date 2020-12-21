@@ -1,5 +1,5 @@
 # NoMSBuild
-MSBuild without MSbuild.exe
+MSBuild without MSbuild.exe. Shellcode injection using D/Invoke sample from here: https://gist.github.com/jfmaes/944991c40fb34625cf72fd33df1682c0
 
 ## Instructions
 
